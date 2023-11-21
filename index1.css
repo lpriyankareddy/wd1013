@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .row {
+    margin-top: 20px;
+  }
+  
+  input, button {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #dc3545;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: #dc3545;
+    margin: 5px 0;
+    font-size: 14px;
+  }
